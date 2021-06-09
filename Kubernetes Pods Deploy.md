@@ -42,7 +42,7 @@ kubectl(Kubernetes API 서버와 통신하기 위한 CLI)을 사용해 Amazon EK
 
 
 
-- (출력값)
+- (Output)
   - Client Version: version.Info{Major:"1", Minor:"19", GitVersion:"v1.19.8", GitCommit:"fd5d41537aee486160ad9b5356a9d82363273721", GitTreeState:"clean", BuildDate:"2021-02-17T12:41:51Z",GoVersion:"go1.15.8", Compiler:"gc", Platform:"linux/amd64"} Server Version: version.Info{Major:"1", Minor:"19+", GitVersion:"v1.19.8-eks-96780e", GitCommit:"96780e1b30acbf0a52c38b6030d7853e575bcdf3", GitTreeState:"clean", BuildDate:"2021-03-10T21:32:29Z", GoVersion:"go1.15.8", Compiler:"gc", Platform:"linux/amd64"}
   - GitVersion : 현재 설치된 Git 버전
   - BuildDate : 빌드 날짜
